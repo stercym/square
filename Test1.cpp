@@ -7,6 +7,7 @@ void square(int n){
 
 int main()
 {
+	//single line loop
 	for(int x = 1; x <= 10; square(x++));
 }
 
